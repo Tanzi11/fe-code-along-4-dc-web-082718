@@ -123,6 +123,7 @@ img, video, audio {
 
 header {
   position: fixed;
+  top: 0;
   
 }
 
