@@ -128,4 +128,6 @@ section {
 /*//// SOCIAL*/////
 #social {
   position: fixed;
+  top: 200px;
+  bottom: 20px;
 }
