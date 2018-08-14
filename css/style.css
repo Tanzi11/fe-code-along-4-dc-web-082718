@@ -72,7 +72,10 @@ figcaption {
 }
 
 /*//// MEDIA*/////
-
+img, video, audio {
+  
+  
+}
 /*//// LAYOUT*/////
 
 .wrapper {
